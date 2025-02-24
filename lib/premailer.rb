@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 require 'yaml'
-require 'open-uri'
+require 'open-url'
 require 'digest/sha2'
 require 'cgi'
 require 'addressable/uri'
